@@ -14,6 +14,13 @@
 pnpm install
 ```
 
+同时，确保您已安装 `concurrently` 和 `cargo-watch`：
+
+```bash
+pnpm add -D concurrently
+cargo install cargo-watch
+```
+
 ## 2. 运行开发服务器
 
 同时启动前端和后端开发服务器：

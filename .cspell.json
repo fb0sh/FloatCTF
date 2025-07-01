@@ -1,6 +1,8 @@
 {
     "words": [
+        "actix",
+        "biome",
         "floatctf",
-        "biome"
+        "serde"
     ]
 }
